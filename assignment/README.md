@@ -44,7 +44,7 @@ This repository contains **20 Google Colab notebooks** covering advanced deep le
 
 ## Part 1: Regularization & Data Augmentation
 
-| # | Notebook | Key Concepts | Frameworks |
+| # | Notebook | Key Concepts | Video Link |
 |---|----------|-------------|------------|
 | a | L1/L2 Regularization | L1 sparsity, L2 weight decay, Elastic Net, A/B comparison | TF + PyTorch |
 | b | Dropout | Standard dropout at 0%, 20%, 50%; overfitting reduction | TF + PyTorch |
