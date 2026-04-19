@@ -22,13 +22,13 @@
 
 | # | Notebook | Key Concepts | Video |
 |---|----------|-------------|-------|
-| i | 2i_custom_lr_scheduler.ipynb | OneCycleScheduler, ExponentialDecay, cosine annealing | [▶️ Video](YOUR_VIDEO_LINK_2i) |
-| ii | 2ii_custom_dropout.ipynb | MCAlphaDropout (always-on for SELU networks) | [▶️ Video](YOUR_VIDEO_LINK_2ii) |
-| iii | 2iii_custom_normalization.ipynb | MaxNormDense — weight norm clipping | [▶️ Video](YOUR_VIDEO_LINK_2iii) |
-| iv | 2iv_tensorboard.ipynb | Custom scalars, histograms, images, overfit gap tracking | [▶️ Video](YOUR_VIDEO_LINK_2iv) |
-| v | 2v_custom_loss.ipynb | HuberLoss (function + class), MSE vs MAE vs Huber comparison | [▶️ Video](YOUR_VIDEO_LINK_2v) |
-| vi | 2vi_custom_activation_init_reg_constraint.ipynb | Parametric ReLU, Glorot initializer, L1 regularizer, positive weights constraint | [▶️ Video](YOUR_VIDEO_LINK_2vi) |
-| vii | 2vii_custom_metric.ipynb | HuberMetric (streaming), R2Score metric | [▶️ Video](YOUR_VIDEO_LINK_2vii) |
+| i | 2i_custom_lr_scheduler.ipynb | OneCycleScheduler, ExponentialDecay, cosine annealing | [▶️ Video](https://drive.google.com/file/d/1B7-X-j0y-MkPXrtIRTUOnPYk2E3dEEQQ/view?usp=sharing) |
+| ii | 2ii_custom_dropout.ipynb | MCAlphaDropout (always-on for SELU networks) | [▶️ Video](https://drive.google.com/file/d/1fD-v1l5XvwDHEtQA69J3xscFcbU4BhGu/view?usp=sharing) |
+| iii | 2iii_custom_normalization.ipynb | MaxNormDense — weight norm clipping | [▶️ Video](https://drive.google.com/file/d/1321Pb2xjig7zx0Z1JwSqFTGPhHRVea7p/view?usp=sharing) |
+| iv | 2iv_tensorboard.ipynb | Custom scalars, histograms, images, overfit gap tracking | [▶️ Video](https://drive.google.com/file/d/1xUlwm78L7jZ3AWz9UGrSRMzakx86YKEk/view?usp=sharing) |
+| v | 2v_custom_loss.ipynb | HuberLoss (function + class), MSE vs MAE vs Huber comparison | [▶️ Video](https://drive.google.com/file/d/1vrwQvE4x26IR9b-EfNhhJFvDN0TIEJqV/view?usp=sharing) |
+| vi | 2vi_custom_activation_init_reg_constraint.ipynb | Parametric ReLU, Glorot initializer, L1 regularizer, positive weights constraint | [▶️ Video](https://drive.google.com/file/d/1jwjxchHeysRN7s7EGsM4Cda9c8SnchIe/view?usp=sharing) |
+| vii | 2vii_custom_metric.ipynb | HuberMetric (streaming), R2Score metric | [▶️ Video](https://drive.google.com/file/d/1ClzNgbWlIife0AqVsaad88_0N-H21YWx/view?usp=sharing) |
 | viii | 2viii_custom_layers.ipynb | MyDense, ExponentialLayer, GaussianNoise, LayerNormalization | [▶️ Video](YOUR_VIDEO_LINK_2viii) |
 | ix | 2ix_custom_model.ipynb | ResidualBlock, ResidualClassifier with skip connections | [▶️ Video](YOUR_VIDEO_LINK_2ix) |
 | x | 2x_custom_optimizer.ipynb | SGD with Momentum from scratch | [▶️ Video](YOUR_VIDEO_LINK_2x) |
