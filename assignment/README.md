@@ -29,11 +29,11 @@
 | v | 2v_custom_loss.ipynb | HuberLoss (function + class), MSE vs MAE vs Huber comparison | [▶️ Video](https://drive.google.com/file/d/1vrwQvE4x26IR9b-EfNhhJFvDN0TIEJqV/view?usp=sharing) |
 | vi | 2vi_custom_activation_init_reg_constraint.ipynb | Parametric ReLU, Glorot initializer, L1 regularizer, positive weights constraint | [▶️ Video](https://drive.google.com/file/d/1jwjxchHeysRN7s7EGsM4Cda9c8SnchIe/view?usp=sharing) |
 | vii | 2vii_custom_metric.ipynb | HuberMetric (streaming), R2Score metric | [▶️ Video](https://drive.google.com/file/d/1ClzNgbWlIife0AqVsaad88_0N-H21YWx/view?usp=sharing) |
-| viii | 2viii_custom_layers.ipynb | MyDense, ExponentialLayer, GaussianNoise, LayerNormalization | [▶️ Video](YOUR_VIDEO_LINK_2viii) |
-| ix | 2ix_custom_model.ipynb | ResidualBlock, ResidualClassifier with skip connections | [▶️ Video](YOUR_VIDEO_LINK_2ix) |
-| x | 2x_custom_optimizer.ipynb | SGD with Momentum from scratch | [▶️ Video](YOUR_VIDEO_LINK_2x) |
-| xi | 2xi_custom_training_loop.ipynb | tf.GradientTape, PyTorch manual loop, Fashion MNIST | [▶️ Video](YOUR_VIDEO_LINK_2xi) |
-| xii | 2xii_weights_and_biases.ipynb | W&B logging, sweeps, confusion matrix, gradient tracking | [▶️ Video](YOUR_VIDEO_LINK_2xii) |
+| viii | 2viii_custom_layers.ipynb | MyDense, ExponentialLayer, GaussianNoise, LayerNormalization | [▶️ Video](https://drive.google.com/file/d/1UuInkOMaxY2MHnXgrXJmKbKJ0E2xINnf/view?usp=sharing) |
+| ix | 2ix_custom_model.ipynb | ResidualBlock, ResidualClassifier with skip connections | [▶️ Video](https://drive.google.com/file/d/1RLfpza2vLcIJhjmhgvpcDJKcl3r8LX5E/view?usp=sharing) |
+| x | 2x_custom_optimizer.ipynb | SGD with Momentum from scratch | [▶️ Video](https://drive.google.com/file/d/1VNnf4KPr_uyPKU--a3DR7q93h29vLUgr/view?usp=sharing) |
+| xi | 2xi_custom_training_loop.ipynb | tf.GradientTape, PyTorch manual loop, Fashion MNIST | [▶️ Video](https://drive.google.com/file/d/1RXE616lnarq_xrkwsD2-FCr3k_l9M4Tc/view?usp=sharing) |
+| xii | 2xii_weights_and_biases.ipynb | W&B logging, sweeps, confusion matrix, gradient tracking | [▶️ Video](https://drive.google.com/file/d/17rVUK6UmTYXvX270Qx-E-cxrbgfTugsy/view?usp=sharing) |
 
 ---
 
