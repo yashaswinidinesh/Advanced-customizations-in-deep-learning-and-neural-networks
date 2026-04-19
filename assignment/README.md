@@ -16,7 +16,7 @@
 | h | 1h_callbacks_tensorboard.ipynb | ModelCheckpoint, ReduceLR, CSVLogger, custom callback, TB visualization | [▶️ Video](https://drive.google.com/file/d/152v-h5heulCq6FscF-hmyKvRwuHly2WI/view?usp=sharing) |
 | i | 1i_keras_tuner.ipynb | RandomSearch, BayesianOptimization, search space definition | [▶️ Video](https://drive.google.com/file/d/1BARaQwSqlrIpAaFidWjJQfovTYbqyIes/view?usp=sharing) |
 | j | 1j_kerascv_augmentation.ipynb | RandAugment, RandomFlip, RandomRotation, tf.data pipeline | [▶️ Video](https://drive.google.com/file/d/13jg4Jf9V6NIAsmxFo2NHmCbxzPn8yIgY/view?usp=sharing) |
-| k | 1k_multimodal_augmentation.ipynb | Image (Albumentations), Text (nlpaug), Tabular (noise), TimeSeries | [▶️ Video](YOUR_VIDEO_LINK_1k) |
+| k | 1k_multimodal_augmentation.ipynb | Image (Albumentations), Text (nlpaug), Tabular (noise), TimeSeries | [▶️ Video](https://drive.google.com/file/d/1ANCQ_gVcmqKZ7_Eu2SuqSkCyVzGWGS4l/view?usp=sharing) |
 
 ## Part 2: Advanced Custom Constructs
 
