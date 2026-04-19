@@ -9,13 +9,13 @@
 | a | 1a_l1_l2_regularization.ipynb | L1 sparsity, L2 weight decay, Elastic Net, A/B comparison | [▶️ Video](https://drive.google.com/file/d/1u_29XiUVwWL_fDGSrhuGK171f8cugEHq/view?usp=sharing) |
 | b | 1b_dropout.ipynb | Standard dropout at 0%, 20%, 50%; overfitting reduction | [▶️ Video](https://drive.google.com/file/d/1MsVYZZOV3PMK8IlFP731cBKxf8ef_5Fw/view?usp=sharing) |
 | c | 1c_early_stopping.ipynb | Keras callback, patience, restore_best_weights, manual PyTorch impl | [▶️ Video](https://drive.google.com/file/d/17DSRCJEAhF0NvRECJE50XXNaxaSnZ2mK/view?usp=sharing) |
-| d | 1d_monte_carlo_dropout.ipynb | Uncertainty estimation, multiple forward passes, confidence intervals | [▶️ Video](YOUR_VIDEO_LINK_1d) |
-| e | 1e_initializations.ipynb | Glorot, He, LeCun, Orthogonal, Zeros; activation distribution analysis | [▶️ Video](YOUR_VIDEO_LINK_1e) |
-| f | 1f_batch_normalization.ipynb | BN before activation, convergence speed, mild regularization | [▶️ Video](YOUR_VIDEO_LINK_1f) |
-| g | 1g_custom_dropout_regularization.ipynb | AlphaDropout, ConcreteDropout (learned rate), GaussianDropout, custom L1 | [▶️ Video](YOUR_VIDEO_LINK_1g) |
-| h | 1h_callbacks_tensorboard.ipynb | ModelCheckpoint, ReduceLR, CSVLogger, custom callback, TB visualization | [▶️ Video](YOUR_VIDEO_LINK_1h) |
-| i | 1i_keras_tuner.ipynb | RandomSearch, BayesianOptimization, search space definition | [▶️ Video](YOUR_VIDEO_LINK_1i) |
-| j | 1j_kerascv_augmentation.ipynb | RandAugment, RandomFlip, RandomRotation, tf.data pipeline | [▶️ Video](YOUR_VIDEO_LINK_1j) |
+| d | 1d_monte_carlo_dropout.ipynb | Uncertainty estimation, multiple forward passes, confidence intervals | [▶️ Video](https://drive.google.com/file/d/1bV2i5ANNLYDZFKQFKMGIm56JBm-TiTbB/view?usp=sharing) |
+| e | 1e_initializations.ipynb | Glorot, He, LeCun, Orthogonal, Zeros; activation distribution analysis | [▶️ Video](https://drive.google.com/file/d/1Z_MIds7svrMj3lVDV7IxgXdLwXdB61Ha/view?usp=sharing) |
+| f | 1f_batch_normalization.ipynb | BN before activation, convergence speed, mild regularization | [▶️ Video](https://drive.google.com/file/d/1r4CQzGEh87YqeicGXXYfY50b9g8YF6jF/view?usp=sharing) |
+| g | 1g_custom_dropout_regularization.ipynb | AlphaDropout, ConcreteDropout (learned rate), GaussianDropout, custom L1 | [▶️ Video](https://drive.google.com/file/d/1CNSzKpTp-lnZx8OpnmLMp3nNRBwShabq/view?usp=sharing) |
+| h | 1h_callbacks_tensorboard.ipynb | ModelCheckpoint, ReduceLR, CSVLogger, custom callback, TB visualization | [▶️ Video](https://drive.google.com/file/d/152v-h5heulCq6FscF-hmyKvRwuHly2WI/view?usp=sharing) |
+| i | 1i_keras_tuner.ipynb | RandomSearch, BayesianOptimization, search space definition | [▶️ Video](https://drive.google.com/file/d/1BARaQwSqlrIpAaFidWjJQfovTYbqyIes/view?usp=sharing) |
+| j | 1j_kerascv_augmentation.ipynb | RandAugment, RandomFlip, RandomRotation, tf.data pipeline | [▶️ Video](https://drive.google.com/file/d/13jg4Jf9V6NIAsmxFo2NHmCbxzPn8yIgY/view?usp=sharing) |
 | k | 1k_multimodal_augmentation.ipynb | Image (Albumentations), Text (nlpaug), Tabular (noise), TimeSeries | [▶️ Video](YOUR_VIDEO_LINK_1k) |
 
 ## Part 2: Advanced Custom Constructs
