@@ -7,7 +7,7 @@
 | # | Notebook | Key Concepts | Video |
 |---|----------|-------------|-------|
 | a | 1a_l1_l2_regularization.ipynb | L1 sparsity, L2 weight decay, Elastic Net, A/B comparison | [▶️ Video](https://drive.google.com/file/d/1u_29XiUVwWL_fDGSrhuGK171f8cugEHq/view?usp=sharing) |
-| b | 1b_dropout.ipynb | Standard dropout at 0%, 20%, 50%; overfitting reduction | [▶️ Video](YOUR_VIDEO_LINK_1b) |
+| b | 1b_dropout.ipynb | Standard dropout at 0%, 20%, 50%; overfitting reduction | [▶️ Video](https://drive.google.com/file/d/1MsVYZZOV3PMK8IlFP731cBKxf8ef_5Fw/view?usp=sharing) |
 | c | 1c_early_stopping.ipynb | Keras callback, patience, restore_best_weights, manual PyTorch impl | [▶️ Video](YOUR_VIDEO_LINK_1c) |
 | d | 1d_monte_carlo_dropout.ipynb | Uncertainty estimation, multiple forward passes, confidence intervals | [▶️ Video](YOUR_VIDEO_LINK_1d) |
 | e | 1e_initializations.ipynb | Glorot, He, LeCun, Orthogonal, Zeros; activation distribution analysis | [▶️ Video](YOUR_VIDEO_LINK_1e) |
